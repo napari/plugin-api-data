@@ -1,0 +1,100 @@
+{
+  "app_entry": {},
+  "conda_platforms": [
+    "noarch"
+  ],
+  "full_name": "conda-forge/napari-czann-segment",
+  "owner": {
+    "description": "A community-led collection of recipes, build infrastructure, and distributions for the conda package manager.",
+    "url": "",
+    "company": "",
+    "user_type": "org",
+    "location": "",
+    "login": "conda-forge",
+    "created_at": "2015-04-11 10:15:08.727000+00:00",
+    "name": "conda-forge"
+  },
+  "home": "https://github.com/sebi06/napari-czann-segment",
+  "source_git_url": null,
+  "source_git_tag": null,
+  "app_type": {},
+  "upvoted": 0,
+  "id": "62fe08cb0ec81727876850a6",
+  "app_summary": {},
+  "public": true,
+  "revision": 3,
+  "files": [
+    {
+      "size": 24093,
+      "upload_time": "2022-08-18 09:39:21.752000+00:00",
+      "description": null,
+      "basename": "noarch/napari-czann-segment-0.0.12-pyhd8ed1ab_0.tar.bz2",
+      "version": "0.0.12",
+      "download_url": "//api.anaconda.org/download/conda-forge/napari-czann-segment/0.0.12/noarch/napari-czann-segment-0.0.12-pyhd8ed1ab_0.tar.bz2",
+      "labels": [
+        "main"
+      ],
+      "distribution_type": "conda",
+      "attrs": {
+        "build_number": 0,
+        "license": "BSD-3-Clause",
+        "has_prefix": false,
+        "noarch": "python",
+        "machine": null,
+        "platform": null,
+        "depends": [
+          "aicsimageio",
+          "czmodel",
+          "cztile",
+          "magicgui",
+          "napari",
+          "numpy",
+          "onnxruntime",
+          "python >=3.8",
+          "qtpy"
+        ],
+        "build": "pyhd8ed1ab_0",
+        "timestamp": 1660814529971,
+        "arch": null,
+        "operatingsystem": null,
+        "target-triplet": "None-any-None",
+        "subdir": "noarch",
+        "constrains": []
+      },
+      "full_name": "conda-forge/napari-czann-segment/0.0.12/noarch/napari-czann-segment-0.0.12-pyhd8ed1ab_0.tar.bz2",
+      "owner": "conda-forge",
+      "sha256": "9eb2e2e90623f2fce44fc0237a7dc09a5d7ff0b546da30a26116472cd151c80e",
+      "type": "conda",
+      "md5": "5fce67fb140b2a6108ecc4d700b34895"
+    }
+  ],
+  "package_types": [
+    "conda"
+  ],
+  "description": "",
+  "releases": [
+    {
+      "version": "0.0.12",
+      "distributions": [],
+      "full_name": "conda-forge/napari-czann-segment/0.0.12"
+    }
+  ],
+  "html_url": "http://anaconda.org/conda-forge/napari-czann-segment",
+  "builds": [
+    "pyhd8ed1ab_0"
+  ],
+  "watchers": 1,
+  "dev_url": null,
+  "name": "napari-czann-segment",
+  "license": "BSD-3-Clause",
+  "versions": [
+    "0.0.12"
+  ],
+  "url": "http://api.anaconda.org/packages/conda-forge/napari-czann-segment",
+  "created_at": "2022-08-18 09:39:21.190000+00:00",
+  "modified_at": "2022-08-18 09:39:24.055000+00:00",
+  "latest_version": "0.0.12",
+  "summary": "Segmention using DeepLearning ONNX models packaged as *.czann files",
+  "license_url": null,
+  "doc_url": null
+}
