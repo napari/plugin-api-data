@@ -1,0 +1,20 @@
+{
+  "url": "https://github.com/BaroudLab/zarr-tools",
+  "activity": {
+    "default_branch": "main",
+    "open_issues": 0,
+    "pull_requests": 0,
+    "forks": 0,
+    "stars": 0,
+    "watchers": 1,
+    "is_archived": false,
+    "open_runtime_vulnerability_alerts": 0,
+    "last_commit": {
+      "date": "2023-03-06T19:33:44Z",
+      "message": "add badges",
+      "author_name": "Andrey Aristov",
+      "author_login": "aaristov"
+    }
+  },
+  "coverage": null
+}
