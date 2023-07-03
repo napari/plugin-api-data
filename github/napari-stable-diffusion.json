@@ -10,9 +10,9 @@
     "is_archived": false,
     "open_runtime_vulnerability_alerts": 0,
     "last_commit": {
-      "date": "2023-05-01T19:03:31Z",
-      "message": "Merge pull request #1 from haesleinhuepf/patch-1",
-      "author_name": "Kyle I S Harrington",
+      "date": "2023-07-03T16:18:12Z",
+      "message": "Abstract model name from widgets",
+      "author_name": "Kyle Harrington",
       "author_login": "kephale"
     }
   },
