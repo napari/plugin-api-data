@@ -83,7 +83,8 @@
         "license": "BSD-3-Clause",
         "noarch": "python",
         "platform": null,
-        "timestamp": 1702109515494
+        "timestamp": 1702109515494,
+        "constrains": []
       },
       "upload_time": "2023-12-09 08:15:06.726000+00:00",
       "md5": "8e5b2bd8e2ae9dfa6f3a0e9d775daa02",
