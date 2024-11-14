@@ -10,9 +10,9 @@
     "is_archived": false,
     "open_runtime_vulnerability_alerts": 0,
     "last_commit": {
-      "date": "2024-07-25T08:27:51Z",
-      "message": "updated README",
-      "author_name": "turnerp",
+      "date": "2024-11-13T21:10:32Z",
+      "message": "updated and fixed picasso dependency",
+      "author_name": "Piers Turner",
       "author_login": "piedrro"
     }
   },
