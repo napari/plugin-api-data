@@ -10,8 +10,8 @@
     "is_archived": false,
     "open_runtime_vulnerability_alerts": 0,
     "last_commit": {
-      "date": "2026-08-13T07:33:42Z",
-      "message": "UI updates and bugfixes",
+      "date": "2026-08-13T20:01:25Z",
+      "message": "v0.1.2 Release: Bugfix and UI updates",
       "author_name": "Christopher Acree",
       "author_login": "caacree"
     }
